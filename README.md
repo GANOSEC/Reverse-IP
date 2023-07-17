@@ -7,3 +7,5 @@ RevIP.py for termux/linux <br>
 RevIP.exe for Windows OS <br>
 
 Password : free@GANOSEC#0x1337x <br>
+
+ONLY USE FOR EDUCATIONAL PURPOSE :)
